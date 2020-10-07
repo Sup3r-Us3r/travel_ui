@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Travel UI" src="https://raw.githubusercontent.com/Sup3r-Us3r/giffinder/master/travel_ui.jpg" width="300px" />
+  <img alt="Travel UI" src="https://raw.githubusercontent.com/Sup3r-Us3r/travel_ui/master/travel_ui.jpg" width="300px" />
 </h1>
 
 <h3 align="center">Travel UI</h3>
